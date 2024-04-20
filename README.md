@@ -1,11 +1,11 @@
 # RadioBero
-{"categorie":[{"names":"Movie","videos":[{"descriptions":"Bero FM est l'une des radios de la Republique Democratique du Congo Generaliste qui Emettant a Kinshasa (RDC) avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre. Veuillez nous contacter : congomonpays243@gmail.com","source":["http://stream.zeno.fm/eyuiqh60p1qtv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTE5NzA3ODRf/radiobero.png","titles":"BERO FM"}]}]}
-
-{"descriptions":"Très cher Abonnés de BERO TV , Juste vous informer que pour des raisons d'entretiens techniques, toutes les chaînes seront indisponibles pendant 72h !!! Toutes nos excuses pour les désagréments causés indépendamment de notre volonté. Pour plus de détails, Veuillez nous contacter : congomonpays243@gmail.com","source":["https://stream.zeno.fm/3rbd2vdzpqlvv.mp39"],"subtitles":"By Channel","thumbs":"https://od.lk/s/NzNfODA3NDk0MjVf/urgent.jpg","titles":"MESSAGE URGENT"},
+# radiocongo
+{"categorie":[{"names":"Movie","videos":[{"descriptions":"Bero FM est l'une des radios de la Republique Democratique du Congo Generaliste qui Emettant a Kinshasa (RDC) avec la diversite sans stop de la Musique  Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre. Veuillez nous contacter : congomonpays243@gmail.com","source":["http://stream.zeno.fm/eyuiqh60p1qtv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTE5NzA3ODRf/radiobero.png","titles":"BERO FM"},
 
 {"descriptions":"UDPS RADIO est l'une des stations de musique les plus populaires. Station UDPS RADIO diffusant de la musique et des programmes à la fois dans l'air et en ligne. À l'origine, il s'agit d'une chaîne de radio pop, d'actualités et de discussion diffusée 24 heures sur 24 en ligne. UDPS RADIO exploite également divers programmes musicaux de manière cohérente pour les personnes de tous âges.","source":["http://37.59.42.207:9194/"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5Mzlf/udps.png","titles":"UDPS FM"},
 
-{"descriptions":"GCM RADIO est une web radio thématique émettant de Brazzaville au Congo : culture, société, sport environnement. Pour tout contact : +242 065 12 54 97","source":["https://gcmradio.radioca.st/autodj"],"subtitles":"By Channel","thumbs":"https://od.lk/s/NzNfODA1NzQ1Njdf/gcmradio.jpg","titles":"GCM RADIO"},
+{"descriptions":"GCM RADIO est une web radio thématique émettant de Brazzaville au Congo : culture, société,  sport environnement. Pour tout contact :
++242 065 12 54 97","source":["https://gcmradio.radioca.st/autodj"],"subtitles":"By Channel","thumbs":"https://od.lk/s/NzNfODA1NzQ1Njdf/gcmradio.jpg","titles":"GCM RADIO"},
 
 {"descriptions":"La RADIO CITOYENNE DES JEUNES en sigle RCJ est la première radio  à caractère éducatif au Congo dédiée à la jeunesse. Pour tout contact =>
 Téléphone : +242 05 350 50 23 et
@@ -13,7 +13,8 @@ Mail : rcj.congo@gmail.com","source":["https://rcj.radioca.st/stream?type=http&n
 
 {"descriptions":"RDC Gospel fm est une l'une des radios chrétiennes de la Republique Democratique du Congo, Emettant a kinshasa avec des musiques religieuses et prédications","source":["https://ca.publicssl.net:443/7002/"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODgwNzM5MTBf/rdcgospel.jpg","titles":"RDC GOSPEL"},
 
-{"descriptions":"Kinmedia FM is an International online Radio that plays Rhumba music . We mainly broadcast in English , Kiswahili and Lingala.","source":["https://stream.zeno.fm/sfnwvtfelzzvv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU3OTkzMzBf/kinmediafm.jpg ","titles":"KIN MEDIA"},
+{"descriptions":"Kinmedia FM is an International online Radio that plays Rhumba music . We mainly broadcast in English , Kiswahili and Lingala.","source":["https://stream.zeno.fm/sfnwvtfelzzvv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU3OTkzMzBf/kinmediafm.jpg
+","titles":"KIN MEDIA"},
 
 {"descriptions":"Bero Gospl FM est l'une des radios de la Republique Democratique du Congo Generaliste qui Emettant a Kinshasa (RDC) avec la diversite sans stop de la Musique Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre. Veuillez nous contacter : congomonpays243@gmail.com","source":["https://stream.zeno.fm/3rbd2vdzpqlvv.mp3"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTE5NzA3ODRf/radiobero.png","titles":"BERO GOSPEL"},
 
@@ -113,7 +114,7 @@ Mail : rcj.congo@gmail.com","source":["https://rcj.radioca.st/stream?type=http&n
 
 {"descriptions":"Radio Ngyoku fm est l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["https://stream-058.zeno.fm:443/hcb7tvbp8hhvv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODc5NzgwOThf/ngyoko.jpeg","titles":"NGYOKO FM"},
 
-{"descriptions":"Radio MUCODEC est le premier média privé Congolais à avoir la plus large couverture hertzienne du pays. Elle couvre depuis novembre 2014 quatre grands bassins de population au Congo. Puisqu’elle émet à Brazzaville depuis février 2010, à Pointe-Noire depuis mai 2011, dans le Niari (Dolisie) depuis juillet 2014 et dans la Cuvette centrale (Oyo) depuis novembre 2014. Autour de chaque point d’émission elle a un rayon d’environ 70 kilomètres.","source":["https://cdnradio.streamakaci.com/radiomucodec.mp3"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5NDZf/mucodec.jpeg","titles":"MUCODEC FM"},
+{"descriptions":"Radio MUCODEC est le premier média privé Congolais  à avoir la plus large couverture hertzienne du pays. Elle couvre depuis novembre 2014 quatre grands bassins de population au Congo. Puisqu’elle émet à  Brazzaville depuis février 2010, à Pointe-Noire depuis mai 2011, dans le Niari (Dolisie) depuis juillet 2014 et  dans la Cuvette centrale (Oyo)  depuis novembre 2014. Autour de chaque point d’émission elle a un  rayon d’environ 70 kilomètres.","source":["https://cdnradio.streamakaci.com/radiomucodec.mp3"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5NDZf/mucodec.jpeg","titles":"MUCODEC FM"},
 
 {"descriptions":"Radio Okapi fm est une station indépendante pour la génération en ligne, connectant ceux qui ont déjà un lien fort avec le Congo.","source":["http://rs1.radiostreamer.com:8000/;stream.nsv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","titles":"RADIO OKAPI"},
 
@@ -137,7 +138,7 @@ Mail : rcj.congo@gmail.com","source":["https://rcj.radioca.st/stream?type=http&n
 
 {"descriptions":"Yakala fm est une station indépendante pour la génération en ligne, connectant ceux qui ont déjà un lien fort avec le Congo.","source":["https://yakalafm.ice.infomaniak.ch:443/yakalafm-128.mp3"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY2MTYxMjhf/yakala.png","titles":"YAKALA FM"},
 
-{"descriptions":"Hope fm africa est une radio 📻 chretienne emettant a Johannesburg South african diffuse 24/24 en ligne riche aux predications, emissions, musique, culturel, et autres 24h/24 nous sommes en direct sur page Facebook, YouTube, website www.hopetvafrica.co.za Google play store hope tv africa email 📧 hopetvafrica2020@gmail.com contact 0027846809542","source":["https://yakalafm.ice.infomaniak.ch:443/yakalafm-128.mp3"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODc4MTQzNzNf/HopeAfricaFm.jpg","titles":"HOPE FM AFRICA"},
+{"descriptions":"Hope fm africa est une radio 📻 chretienne emettant a Johannesburg South african diffuse 24/24 en ligne riche aux predications,  emissions,  musique, culturel,  et autres  24h/24 nous sommes en direct sur page Facebook, YouTube, website www.hopetvafrica.co.za Google play store hope tv africa email 📧 hopetvafrica2020@gmail.com contact 0027846809542","source":["https://yakalafm.ice.infomaniak.ch:443/yakalafm-128.mp3"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODc4MTQzNzNf/HopeAfricaFm.jpg","titles":"HOPE FM AFRICA"},
 
 {"descriptions":"Bomoko fm est une station indépendante pour la génération en ligne, connectant ceux qui ont déjà un lien fort avec le Congo.","source":["https://stream.streamaudio.de:8000/radio-bomoko"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY2MTcyNTJf/bomoko.webp","titles":"BOMOKO FM"},
 
@@ -162,3 +163,10 @@ Mail : rcj.congo@gmail.com","source":["https://rcj.radioca.st/stream?type=http&n
 {"descriptions":"Radio LAVDCONGO est une l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["https://gooradios.com/stream/139369"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5NTFf/lavda.jpeg","titles":"LAVDCONGO FM"},
 
 {"descriptions":"Ekosimba fm est l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["https://stream-018.zeno.fm:443/kvqbhgn0m18uv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODc5NzgxNDdf/ekosimba.jpeg","titles":"EKOSIMBA FM"}]}]}
+
+
+
+
+
+
+{"descriptions":"Très cher Abonnés de BERO TV , Juste vous informer que pour des raisons d'entretiens techniques, toutes les chaînes seront indisponibles pendant 72h !!! Toutes nos excuses pour les désagréments causés indépendamment de notre volonté. Pour plus de détails, Veuillez nous contacter : congomonpays243@gmail.com","source":["https://stream.zeno.fm/3rbd2vdzpqlvv.mp39"],"subtitles":"By Channel","thumbs":"https://od.lk/s/NzNfODA3NDk0MjVf/urgent.jpg","titles":"MESSAGE URGENT"},
