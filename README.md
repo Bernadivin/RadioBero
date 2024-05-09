@@ -18,6 +18,8 @@ Mail : rcj.congo@gmail.com","source":["https://rcj.radioca.st/stream?type=http&n
 
 {"descriptions":"Bero Gospl FM est l'une des radios de la Republique Democratique du Congo Generaliste qui Emettant a Kinshasa (RDC) avec la diversite sans stop de la Musique Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre. Veuillez nous contacter : congomonpays243@gmail.com","source":["https://stream.zeno.fm/3rbd2vdzpqlvv.mp3"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTE5NzA3ODRf/radiobero.png","titles":"BERO GOSPEL"},
 
+{"descriptions":"Ev -Radio est une radio à caractère humanitaire destinée à la production et à la diffusion des contenus de communication et d'information en rapport avec les actions, les problèmes de personnes vulnérables, à la formation et au divertissement de celles-ci","source":["https://stream.zeno.fm/3rbd2vdzpqlvv.mp3"],"subtitles":"By Channel","thumbs":"https://od.lk/s/NzNfNzcyNjM1MThf/evtele.jpg","titles":"EV RADIO"},
+
 {"descriptions":"Pourim fm est une radio chretienne emettant a kinshasa pour l'edification des chretiens de partout","source":["https://zoka.radioca.st/stream?type=http&nocache=1489"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY4OTExMTlf/pourimfm.jpg","titles":"POURIM FM"},
 
 {"descriptions":"Radio Okapi, symbôle de la paix, est issue d'un partenariat entre la Monusco et la Fondation Hirondelle. Il s'agit d'une radio informative qui diffuse en langue française depuis l'année 2002 dans la République Démocratique du Cogno.","source":["http://rs1.radiostreamer.com:8000/;stream"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5NDRf/okapi.jpg","titles":"OKAPI FM"},
