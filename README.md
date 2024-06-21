@@ -4,6 +4,8 @@
 
 {"descriptions":"UDPS RADIO est l'une des stations de musique les plus populaires. Station UDPS RADIO diffusant de la musique et des programmes à la fois dans l'air et en ligne. À l'origine, il s'agit d'une chaîne de radio pop, d'actualités et de discussion diffusée 24 heures sur 24 en ligne. UDPS RADIO exploite également divers programmes musicaux de manière cohérente pour les personnes de tous âges.","source":["http://37.59.42.207:9194/"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5Mzlf/udps.png","titles":"UDPS FM"},
 
+{"descriptions":"Radio Egg Pro fm est une station indépendante pour la génération en ligne, connectant ceux qui ont déjà un lien fort avec le Congo.","source":["http://dione.shoutca.st:8359/index?fbclid=IwZXh0bgNhZW0CMTEAAR0Jgic_SR2u947hJOlQy9fziQVjgGsGBXFqDXGzvtwV5BElDNT2oCS9HXs_aem_ZmFrZWR1bW15MTZieXRlcw"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODc5MDE0OTdf/EggFm.jpg","titles":"RADIO EGG PRO FM"},
+
 {"descriptions":"GCM RADIO est une web radio thématique émettant de Brazzaville au Congo : culture, société,  sport environnement. Pour tout contact :
 +242 065 12 54 97","source":["https://gcmradio.radioca.st/autodj"],"subtitles":"By Channel","thumbs":"https://od.lk/s/NzNfODA1NzQ1Njdf/gcmradio.jpg","titles":"GCM RADIO"},
 
@@ -43,8 +45,6 @@ Mail : rcj.congo@gmail.com","source":["https://rcj.radioca.st/stream?type=http&n
 {"descriptions":"Radio millenium RDC est une l'une des radios de la Republique Democratique du Congo, Emettant a kinshasa avec des programme en diversites","source":["http://stream.zeno.fm/471pmgfd5f8uv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","titles":"RADIO MILLENIUM"},
 
 {"descriptions":"Pena fm est une station indépendante pour la génération en ligne, connectant ceux qui ont déjà un lien fort avec le Congo.","source":["https://stream-57.zeno.fm:443/dnw3x5tqpc9uv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY2MTYxMzFf/pana.png","titles":"PENA FM"},
-
-{"descriptions":"Egg fm est une station indépendante pour la génération en ligne, connectant ceux qui ont déjà un lien fort avec le Congo.","source":["https://stream-011.zeno.fm:443/0w1gkvaq8whvv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODc5MDE0OTdf/EggFm.jpg","titles":"EGG FM"},
 
 {"descriptions":"Radio Télé Amkeni FM est une radio privée en RD.Congo.","source":["https://stream-175.zeno.fm/qcyfsoqhmo6vv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/NzNfNzk2ODE0NzNf/amkenifm.jpeg","titles":"AMKENI FM"},
 
