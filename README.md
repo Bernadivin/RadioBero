@@ -9,7 +9,7 @@ Avec des contenus de qualité et des animateurs charismatiques. EVI TV vous offr
 Restez connectés avec l'actualité et profitez de moment de détente en regardant EVI TV. Pour tout contact : evitvrdc5@gmail.com","source":["https://stream.zeno.fm/bgblkbhq4kjuv.mp3"],"subtitle":"EVI TV est une chaîne de télévision généraliste qui propose une programmation variée pour toute la famille.
 Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants.
 Avec des contenus de qualité et des animateurs charismatiques. EVI TV vous offre une expérience télévisuelle unique et divertissante. 
-Restez connectés avec l'actualité et profitez de moment de détente en regardant EVI TV","direct":"En Direct","thumbs":"https://od.lk/s/NzNfODAzNDM1MDlf/evitvone.jpg","titles":"RADIO EVI"}
+Restez connectés avec l'actualité et profitez de moment de détente en regardant EVI TV","direct":"En Direct","thumbs":"https://od.lk/s/NDZfNjI3MjQyNzZf/Eviradio.jpg","titles":"RADIO EVI"}
 
 {"descriptions":"UDPS RADIO est l'une des stations de musique les plus populaires. Station UDPS RADIO diffusant de la musique et des programmes à la fois dans l'air et en ligne. À l'origine, il s'agit d'une chaîne de radio pop, d'actualités et de discussion diffusée 24 heures sur 24 en ligne. UDPS RADIO exploite également divers programmes musicaux de manière cohérente pour les personnes de tous âges.","source":["http://37.59.42.207:9194/"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NzM5Mzlf/udps.png","titles":"UDPS FM"},
 
